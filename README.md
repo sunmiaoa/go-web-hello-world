@@ -145,7 +145,7 @@ docker tag go-web-hello-world:latest amysunm/go-web-hello-world:v0.1
 docker login
 docker push amysunm/go-web-hello-world:v0.1
 ```
-access : https://hub.docker.com/repositories
+access : https://hub.docker.com/repository/docker/amysunm/go-web-hello-world
 
 ### Task 12: generate token for dashboard login in task 11
 refer to:
